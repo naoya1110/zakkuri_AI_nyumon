@@ -1,1 +1,1 @@
-# zakkuri_AI_nyumon
+# 画像分類AI超ざっくり入門
