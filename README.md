@@ -4,4 +4,4 @@
 
 物体検出モデルYOLOv8推論　https://github.com/naoya1110/zakkuri_AI_nyumon/blob/main/Introduction_to_Object_Detection_Model_YOLOv8.ipynb
 
-物体検出モデルYOLOv8学習
+物体検出モデルYOLOv8学習　https://github.com/naoya1110/zakkuri_AI_nyumon/blob/main/Training_YOLOv8.ipynb
